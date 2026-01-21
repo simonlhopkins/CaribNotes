@@ -1,4 +1,40 @@
+![](../media/IMG_5734%20Large.jpeg)
 
+![](../media/IMG_5735%20Large.jpeg)
+
+![](../media/IMG_5736%20Large.jpeg)
+
+![](../media/IMG_5737%20Large.jpeg)
+
+![](../media/IMG_5738%20Large.jpeg)
+
+![](../media/IMG_5744%20Large.jpeg)
+
+![](../media/IMG_5745%20Large.jpeg)
+
+![](../media/IMG_5746%20Large.jpeg)
+
+![](../media/IMG_5747%20Large.jpeg)
+
+![](../media/IMG_5748%20Large.jpeg)
+
+![](../media/IMG_5749%20Large.jpeg)
+
+![](../media/IMG_5750%20Large.jpeg)
+
+![](../media/IMG_5751%20Large.jpeg)
+
+![](../media/IMG_5752%20Large.jpeg)
+
+![](../media/IMG_5753%20Large.jpeg)
+
+![](../media/IMG_5754%20Large.jpeg)
+
+![](../media/IMG_5755%20Large.jpeg)
+
+![](../media/IMG_5756%20Large.jpeg)
+
+![](../media/IMG_5757%20Large.jpeg)
 When reaching over to buy a parking ticket, I placed my foot on the fuel lid lock lever, and snapped it right off. It doesn’t look like the exact part [77306-13060](https://toyota.epc-data.com/sprinter_carib/ae115g/19170/body/7701/77306/) is for sale anymore. So I think I am going to try to [plastic weld](https://www.youtube.com/watch?v=ztYN1pwN5a8) it together with wire mesh. There probably are other OEM parts that would work for this since it is literally just pulling a lever.
 
 - [Look for hdpe plastic for the “filler rod”](https://www.youtube.com/watch?v=OVaup9CYOL0)
@@ -41,43 +77,5 @@ I found 100 yen underneath the carpet!!
 
 | plastic cable clips underneath trim | **82711-14350** |
 | ----------------------------------- | --------------- |
-![[IMG_5752 Large.jpeg]]
-
-![[IMG_5734 Large.jpeg]]
-
-![[IMG_5735 Large.jpeg]]
-
-![[IMG_5736 Large.jpeg]]
-
-![[IMG_5737 Large.jpeg]]
-
-![[IMG_5738 Large.jpeg]]
-
-![[IMG_5744 Large.jpeg]]
-
-![[IMG_5745 Large.jpeg]]
-
-![[IMG_5746 Large.jpeg]]
-
-![[IMG_5747 Large.jpeg]]
-
-![[IMG_5748 Large.jpeg]]
-
-![[IMG_5749 Large.jpeg]]
-
-![[IMG_5750 Large.jpeg]]
-
-![[IMG_5751 Large.jpeg]]
-
-![[IMG_5753 Large.jpeg]]
-
-![[IMG_5754 Large.jpeg]]
-
-![[IMG_5755 Large.jpeg]]
-
-![[IMG_5756 Large.jpeg]]
-
-![[IMG_5757 Large.jpeg]]
-
 ### 1-21-2026
 It broke again :^( I do not remember stepping on it, but I don't think putting the epoxy in the holes between the crack actually did anything. Oh well. I think I'll make the slit in the carpet because I am thinking of putting a bike brake lever in the place of it. I think that a machined metal brake lever would be much more durable, but the only trouble is I have no idea how I'd secure it. Maybe I'll try 3D printing or something. Anyways such is life and I though I did a pretty good job initially, but I'll inspect it when I take it out a and hopefully learn. The good news bout the epoxy is I basically make a smooth continuous surface to adhere it to if I want to reattach the plastic.
