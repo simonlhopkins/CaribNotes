@@ -8,7 +8,7 @@
 
 ### [Gas Google Sheet](https://docs.google.com/spreadsheets/d/1UmQUnoNSo-mDBJ2Qcuke6yenab1xdRqvNcQVLkBasbg/edit?gid=874957229#gid=874957229)
 
-
+### [Misc Specs](https://www.carimports.co.ke/car-specification/Learn-more-about-TOYOTA-SPRINTER-CARIB-Z-TOURING-to-buy-in-Nairobi-Kenya/1004311/)
 
 
 Parts

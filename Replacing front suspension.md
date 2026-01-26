@@ -8,5 +8,13 @@ front right part number W0133-1952021
 - $195.97 on [parts geek](https://www.partsgeek.com/)
 
 Probably just need jack and jack stand.
+
+### shopping
+
+https://www.ebay.com/itm/283626801373?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOopXFegCV49bXnHv1SHZ70CcW0t0g_oxCuITcguPETM-mHMg1jAQw0Y
+
 ### Videos
 [Replacing Front Struts '93-'02 Toyota Corolla](https://www.youtube.com/watch?v=8vNWQ7v3JV4)
+
+### Reference
+[tie rod assembly](https://toyota.epc-data.com/sprinter_carib/ae115g/19254/chassis/4505/)
