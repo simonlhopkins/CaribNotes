@@ -1,0 +1,1 @@
+https://riku-zen.cocolog-nifty.com/
