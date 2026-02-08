@@ -80,3 +80,6 @@ It broke again :^( I do not remember stepping on it, but I don't think putting t
 ![](../media/IMG_5756%20Large.jpeg)
 
 ![](../media/IMG_5757%20Large.jpeg)
+
+### 1-26-2026
+got a brake lever from bike farm to install. I think it'll look pretty slick, but I need to 3d print a part to bridge the gap and attach it to the existing screw hole. I think that I will use prong nuts, or heat inserts. I think prong nuts will be best, and I learned this from [this youtube video](https://www.youtube.com/watch?v=HgEEtk85rAY).
