@@ -12,9 +12,18 @@ Apparently you can hook up a power source to one of the pins and ground to the o
 
 ### 2/8/2026
 I purchased the following gaskets from https://autoparts.beavertontoyota.com/. They can be picked up in beaverton which is super convienient. It makes sense to replace the gaskets since they are definitely something that degrade over time. Once they come in, I'll buy some throttle body cleaner, and take the throttle body off, clean it, then take the IAC off, and test it.
-I should get some 8mm bolts prior to this so I can plug the coolant lines that attach to the 
+I should get some 8mm bolts prior to this so I can plug the coolant lines that attach to the throttle body. I should also remember to tape off air intake lines as to not get gunk in them.
 
 | name                 | part number     |
 | -------------------- | --------------- |
 | throttle body gasket | **22271-15020** |
 | IAC gasket           | **22215-74400** |
+### 2/8/2026
+I cleaned the IAC valve and the throttle body, and the engine still idles at 500-550 RPM when stopped at a light which makes it a bit buzzy and vibrates. On the hood, it shows the idle speed is between 520 and 700 RPM.
+![](media/IMG_5930.jpeg)
+https://www.reddit.com/r/COROLLA/comments/1ebjnt5/1996_toyota_corolla_shaking_when_idle/
+This says maybe replacing the spark plugs would help
+https://www.youtube.com/watch?v=lQMDhaXTjCY
+Maybe it is the motor mounts
+https://www.toyotanation.com/threads/toyota-corolla-ae102-shaking-when-idling.1720710/page-2?nested_view=1
+Seems like maybe I can run a compression test to see if that is an issue?

@@ -6,10 +6,19 @@ that look like one will work for audio and one will work for video. I am not sur
 
 
 ### Diagrams
+
+
+| name             | part #      |
+| ---------------- | ----------- |
+| connection cable | 08541-00090 |
+
 supra accessory list https://jza80.de/worldwide-supra-jza80-accessory-list
 
+Youtube video I made on it: https://www.youtube.com/watch?v=aU7TNb6YbN8&t=122s
 
-
+Message from my co worker's dad reacting to the video.
+Note: He doesn't know what the fuck he is talking about.
+![](media/IMG_4420.png)
 ### Adapter cable
 ![](media/Pasted%20image%2020260126084743.png)
 ![](media/Pasted%20image%2020260126084944.png)

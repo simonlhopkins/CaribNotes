@@ -167,16 +167,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rough idle.md",
+                "file": "Helpful Links.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rough idle"
+              "title": "Helpful Links"
+            }
+          },
+          {
+            "id": "d32c2e844b75639a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spark Plugs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spark Plugs"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -336,28 +350,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e47b21837f457327",
+  "active": "d32c2e844b75639a",
   "lastOpenFiles": [
-    "websiteInspo.md",
     "Helpful Links.md",
+    "Spark Plugs.md",
     "Rough idle.md",
+    "media/IMG_5930.jpeg",
+    "Replacing front suspension.md",
+    "media/IMG_5930.heic",
+    "1-2026/Broken Fuel Lid Lock.md",
+    "1-2026/Replace Air filter.md",
+    "1-2026/Translations.md",
+    "CD Changer.md",
     "LCD TV.md",
     "Tire size.md",
-    "1-2026/Broken Fuel Lid Lock.md",
+    "websiteInspo.md",
+    "media/IMG_4420.png",
     "media/Pasted image 20260126085828.png",
     "media/Pasted image 20260126085707.png",
     "media/Pasted image 20260126084944.png",
     "media/Pasted image 20260126084743.png",
     "media/Pasted image 20260126084840.png",
     "media/Pasted image 20260126084809.png",
-    "Replacing front suspension.md",
-    "1-2026/Translations.md",
-    "1-2026/Replace Air filter.md",
-    "CD Changer.md",
     "media/IMG_5734 Large.jpeg",
     "media/IMG_5748 Large.jpeg",
-    "media/IMG_5757 Large.jpeg",
-    "media/IMG_5769 Large.jpeg",
     "media",
     "1-2026/media",
     "1-2026"
