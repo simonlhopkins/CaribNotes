@@ -18,6 +18,9 @@ I should get some 8mm bolts prior to this so I can plug the coolant lines that a
 | -------------------- | --------------- |
 | throttle body gasket | **22271-15020** |
 | IAC gasket           | **22215-74400** |
+
+![](media/Pasted%20image%2020260222102942.png)
+22 Nm torque spec for the screws that go into the throttle body
 ### 2/8/2026
 I cleaned the IAC valve and the throttle body, and the engine still idles at 500-550 RPM when stopped at a light which makes it a bit buzzy and vibrates. On the hood, it shows the idle speed is between 520 and 700 RPM.
 ![](media/IMG_5930.jpeg)
@@ -27,3 +30,17 @@ https://www.youtube.com/watch?v=lQMDhaXTjCY
 Maybe it is the motor mounts
 https://www.toyotanation.com/threads/toyota-corolla-ae102-shaking-when-idling.1720710/page-2?nested_view=1
 Seems like maybe I can run a compression test to see if that is an issue?
+
+### 2/22/2026
+![](media/Pasted%20image%2020260222163213.png)
+gonna try to do this, according to[ this video](https://www.youtube.com/watch?v=LOrQ9TilfOg) it will only work on 00s and after models so I am not super hopeful.
+1. Get engine up to temp (half way up the temp gague)
+2. turn all loads off
+3. turn off
+4. turn on
+5. turn off
+6. turn on
+7. then turn the engine all the way on
+8. apply the handbrake
+9. press the foot brake and shift into drive
+10. sit there for 5 mins.
