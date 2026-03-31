@@ -1,7 +1,14 @@
 
 How can I keep my favorite car for a long time?
 
-Although more than 20 years have passed since their Increasing!!!" (both published by Sansuisha and 000 Kilometers" and "The Lifespan of Cars Keeps release, "A Book That Won't Break Down Even After 100, Kodansha) continue to be textbooks for car enthusiasts. The author, Kazuo Sakiyama, is a maintenance expert with a 60-year career. If you want to learn the secrets to keeping a car in healthy condition, he is the only person to ask!
+
+Although more than 20 years have passed since their
+release, "A Book That Won't Break Down Even After 100,
+000 Kilometers" and "The Lifespan of Cars Keeps
+Increasing!!!" (both published by Sansuisha and
+Kodansha) continue to be textbooks for car
+enthusiasts. The author, Kazuo Sakiyama, is a
+maintenance expert with a 60-year career. If you want to learn the secrets to keeping a car in healthy condition, he is the only person to ask!
 
 Q1. What is the most important thing to do first to make a car last longer?
 
