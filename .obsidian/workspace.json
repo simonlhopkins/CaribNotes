@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "Popeye Maintenance Guide Translations"
             }
+          },
+          {
+            "id": "e5f22fabcae07df3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fuel Filter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fuel Filter"
+            }
+          },
+          {
+            "id": "f91dc01fb24cbae2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fuel Filter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fuel Filter"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -196,24 +224,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9017e188e4af2bb5",
+  "active": "f91dc01fb24cbae2",
   "lastOpenFiles": [
+    "Helpful Links.md",
+    "Broken Fuel Lid Lock.md",
+    "CD Changer.md",
+    "Fuel Filter.md",
+    "media/Pasted image 20260403170956.png",
+    "Jack points.md",
+    "media/Pasted image 20260403170241.png",
+    "media/Pasted image 20260403170226.png",
+    "Popeye Maintenance Guide/Popeye Maintenance Guide Translations.md",
     "Popeye Maintenance Guide/Popeye car maintenance guide-en_mono_doclingo.ai.pdf",
     "Popeye Maintenance Guide/Popeye car maintenance guide.pdf",
-    "Popeye Maintenance Guide/Popeye Maintenance Guide Translations.md",
     "Popeye Maintenance Guide",
-    "Broken Fuel Lid Lock.md",
     "Rough idle.md",
     "media/Pasted image 20260222163213.png",
     "media/Pasted image 20260222102942.png",
     "Spark Plugs.md",
-    "Helpful Links.md",
     "media/IMG_5930.jpeg",
     "Replacing front suspension.md",
     "media/IMG_5930.heic",
     "Replace Air filter.md",
     "Translations.md",
-    "CD Changer.md",
     "LCD TV.md",
     "Tire size.md",
     "websiteInspo.md",
@@ -221,9 +254,6 @@
     "media/Pasted image 20260126085828.png",
     "media/Pasted image 20260126085707.png",
     "media/Pasted image 20260126084944.png",
-    "media/Pasted image 20260126084743.png",
-    "media/Pasted image 20260126084840.png",
-    "media/Pasted image 20260126084809.png",
     "media",
     "1-2026/media",
     "1-2026"
