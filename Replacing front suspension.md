@@ -7,7 +7,11 @@ front left part number W0133-1952022
 front right part number W0133-1952021
 - $195.97 on [parts geek](https://www.partsgeek.com/)
 
-Probably just need jack and jack stand.
+![](media/Pasted%20image%2020260403173047.png)
+### 4-3-2026
+
+[Page 155 ](https://archive.org/details/toyota-sprinter-carib-1995-2001-autorepman.com)
+Page 158 - front suspension specifically + torque specs
 
 ### 2-4-2026
 I ordered the struts from shock surplus, but they have been delayed a couple weeks. I reached out to a co worker's husband to ask if I could use their tools and he agreed. Whenever I hit a bump fast, it definitely is a little squeaky, but I am not sure if that is the struts, or something else about the whole suspension assembly.
