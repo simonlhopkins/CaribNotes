@@ -38,8 +38,8 @@ I found 100 yen underneath the carpet!!
 | Seat bolt size            | 15mm |
 
 
-| plastic cable clips underneath trim | **82711-14350** |
-| ----------------------------------- | --------------- |
+| plastic cable clips underneath trim | **[8271116790](https://toyota.epc-data.com/sprinter_carib/ae115g/19170/electric/8202/?partno=8271116790)** |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 ### 1-21-2026
 It broke again :^( I do not remember stepping on it, but I don't think putting the epoxy in the holes between the crack actually did anything. Oh well. I think I'll make the slit in the carpet because I am thinking of putting a bike brake lever in the place of it. I think that a machined metal brake lever would be much more durable, but the only trouble is I have no idea how I'd secure it. Maybe I'll try 3D printing or something. Anyways such is life and I though I did a pretty good job initially, but I'll inspect it when I take it out a and hopefully learn. The good news bout the epoxy is I basically make a smooth continuous surface to adhere it to if I want to reattach the plastic.
 

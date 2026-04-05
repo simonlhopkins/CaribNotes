@@ -21,7 +21,7 @@ I should get some 8mm bolts prior to this so I can plug the coolant lines that a
 
 ![](media/Pasted%20image%2020260222102942.png)
 22 Nm torque spec for the screws that go into the throttle body
-### 2/8/2026
+### 2/15/2026
 I cleaned the IAC valve and the throttle body, and the engine still idles at 500-550 RPM when stopped at a light which makes it a bit buzzy and vibrates. On the hood, it shows the idle speed is between 520 and 700 RPM.
 ![](media/IMG_5930.jpeg)
 https://www.reddit.com/r/COROLLA/comments/1ebjnt5/1996_toyota_corolla_shaking_when_idle/
@@ -44,3 +44,11 @@ gonna try to do this, according to[ this video](https://www.youtube.com/watch?v=
 8. apply the handbrake
 9. press the foot brake and shift into drive
 10. sit there for 5 mins.
+
+Ok so I took the car out, and warmed up the engine, then preformed this. As expected it didn't seem to make any difference on the idle speed.
+When shifted into park, it idles at a fine speed of 700-800rpm, but when we shift it into drive, it idles closer to 500-550.
+However, when I unplugged the idle air control value connector, the car went back to idling at a better rpm, and then when I plugged it back in, it went back to idling at a low speed.
+
+ChatGPT seems to think that this means that the TPS Idle Switch is mid adjusted 
+
+I ordered a new fuel filter which might help, the current one on there looks like it has never been changed before.
