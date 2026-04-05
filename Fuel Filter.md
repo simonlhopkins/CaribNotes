@@ -13,3 +13,6 @@ Torque specs
 5. return fuel hose
 6. fuel vapor accumulator
 7. gasket (90430-12026)
+
+### 4-4-2026
+Replaced! at 46120 km. Jason replaced it for me, and it seemed like a huge pain, but he did it! The order he did it was, screw in bottom, screw in top, screw in mounting bolts.
