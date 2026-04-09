@@ -8,6 +8,15 @@ front right part number W0133-1952021
 - $195.97 on [parts geek](https://www.partsgeek.com/)
 
 ![](media/Pasted%20image%2020260403173047.png)
+### 4-9-2026
+Outer tie rod replacement prep
+Torque spec of tightening the castle nut looks like 49nM
+Page 162
+![](media/Pasted%20image%2020260409160315.png)
+![](media/Pasted%20image%2020260409160342.png)
+page 171
+![](media/Pasted%20image%2020260409160741.png)
+Looks like the lock nut needs to be torqued to 56 nM
 ### 4-3-2026
 
 [Page 155 ](https://archive.org/details/toyota-sprinter-carib-1995-2001-autorepman.com)
