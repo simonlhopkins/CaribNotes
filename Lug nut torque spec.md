@@ -1,0 +1,1 @@
+[103 Nm (76 ft.lbf)](https://charm.li/Toyota/1996/Corolla%20Wagon%20L4-107.5%201762cc%201.8L%20DOHC%20%287A-FE%29/Repair%20and%20Diagnosis/Specifications/Mechanical%20Specifications/Wheel%20Stud%20%2F%20Lug%20Nut/)

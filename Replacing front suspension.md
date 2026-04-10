@@ -8,11 +8,31 @@ front right part number W0133-1952021
 - $195.97 on [parts geek](https://www.partsgeek.com/)
 
 ![](media/Pasted%20image%2020260403173047.png)
+### 4-10-2026 (46234 km)
+I replaced the tie rod ends on both sides, following these steps.
+1. Break lug nuts free when car is on ground
+2. Jack up front of car
+3. Remove wheels
+	1. When I did this I saw the power steering was leaking a little bit, it looks like a rubber seal failed or something
+4. Remove castle nut, and use special tie rod end removal tool to pop them out.
+	1. This makes a super loud popping noise when they break out but that is probably fine
+5. Wrap tape around the tie rod about half way to the inner tie rod, to use as a base point to measure the length from the tape to the center of the tie rod.
+	1. Measure distance and record it, this is so when you put the new tie rod on, you can measure from the tape to make sure the center about lines up.
+6. Place outer tie rod back in the boot, use one wrench on the tie rod and one wrench on the lock nut holding on the tie rod, loosen the nut.
+	1. Do not put a wrench on the tie rod itself, I tried this and it immediately slipped and stripped a little bit.
+	2. When looking from the wheel to the inner tie rod, it is clockwise to loosen, counter clockwise to tighten.
+7. After double checking you made your measurement from the tape, remove old tie rod.
+	1. Count the number of turns as a backup measurement. I found that using the tape to center was more accurate, since the tie rods may be different sizes.
+8. Preform steps in reverse to put on new tie rod.
+9. Tighten the castle nut to  [49nM](#torque%20spec). Insert pin and bend around nut.
+10. Turn the wheel side to side and make sure it feels smooth, no clicking.
+11. Put wheels back on, then take to a shop to get it properly aligned.
 ### 4-9-2026
 Outer tie rod replacement prep
-Torque spec of tightening the castle nut looks like 49nM
+Torque spec of tightening the castle nut looks like [49nM](#torque%20spec)
 Page 162
 ![](media/Pasted%20image%2020260409160315.png)
+## torque spec
 ![](media/Pasted%20image%2020260409160342.png)
 page 171
 ![](media/Pasted%20image%2020260409160741.png)
