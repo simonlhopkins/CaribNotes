@@ -37,6 +37,9 @@ Page 162
 page 171
 ![](media/Pasted%20image%2020260409160741.png)
 Looks like the lock nut needs to be torqued to 56 nM
+### 4-4-2026
+Replaced! at 46120 km. Replaced both of the front struts with the two I bought off of [shock surplus](https://www.shocksurplus.com/products/kyb-strut-plus-strut-front-pair-1993-1997-toyota-corolla?_gl=1*h26es0*_up*MQ..*_ga*NDI4OTg0MTk3LjE3NzUzOTkxNTE.*_ga_NCYSWLV9WH*czE3NzUzOTkxNTAkbzEkZzEkdDE3NzUzOTkxNTAkajYwJGwwJGgxNzAzOTQyNTAx)
+
 ### 4-3-2026
 
 [Page 155 ](https://archive.org/details/toyota-sprinter-carib-1995-2001-autorepman.com)
