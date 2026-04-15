@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Replacing front suspension.md",
+                "file": "Helpful Links.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Replacing front suspension"
+              "title": "Helpful Links"
             }
           },
           {
@@ -222,6 +222,7 @@
   },
   "active": "35e0d6a8e7cfc5da",
   "lastOpenFiles": [
+    "Replacing front suspension.md",
     "media/Pasted image 20260410144944.png",
     "media/Pasted image 20260410144900.png",
     "media/Pasted image 20260410144622.png",
@@ -233,7 +234,6 @@
     "Lug nut torque spec.md",
     "Replace fuel filter.md",
     "conflict-files-obsidian-git.md",
-    "Replacing front suspension.md",
     "Fuel Filter.md",
     "Replace Air filter.md",
     "Helpful Links.md",
