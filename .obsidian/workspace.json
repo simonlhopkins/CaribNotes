@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spark Plugs.md",
+                "file": "Helpful Links.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spark Plugs"
+              "title": "Helpful Links"
             }
           }
         ],
@@ -180,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spark",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,8 +201,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -311,6 +310,7 @@
   },
   "active": "c07a0eff29234f4d",
   "lastOpenFiles": [
+    "Spark Plugs.md",
     "media/Pasted image 20260509094650.png",
     "media/Pasted image 20260509094454.png",
     "media/Pasted image 20260509094451.png",
@@ -328,7 +328,6 @@
     "media/Pasted image 20260504085816.png",
     "AC Drain hose.md",
     "media/Pasted image 20260429171527.png",
-    "media/Pasted image 20260429171453.png",
     "Digital Clock.md",
     "Body parts.md",
     "Headlights.md",
