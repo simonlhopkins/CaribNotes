@@ -113,3 +113,12 @@ If you don't clean the inside of the car, bacteria will continue to increase, an
 
 Airing out clothes for about three hours is sufficient. From May to July, it's a good idea to keep about three dehumidifying packs in your car. Hanging up insect-repellent hooks for clothing is also effective.
 
+
+  
+たったこれだけで10万キロ走っても故障しない本 寿命をのばす長生きカーメンテ術
+![](../media/Pasted%20image%2020260629211316.png)
+"# Red Badge mechanical series"
+
+ISBN-10: 4061797018
+
+ISBN-13: 978-4061797017
