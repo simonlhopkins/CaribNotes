@@ -1,0 +1,1 @@
+1996 7afe corolla guide https://charm.li/Toyota/1996/Corolla%20Wagon%20L4-107.5%201762cc%201.8L%20DOHC%20%287A-FE%29/Repair%20and%20Diagnosis/Maintenance/Timing%20Belt/Service%20and%20Repair/Timing%20Belt%20Removal/
