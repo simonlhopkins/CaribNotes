@@ -11,6 +11,7 @@
 
 ### [Parts diagrams](https://partsouq.com/en/catalog/genuine/vehicle?c=Toyota&ssd=%24%2AKwEwBBUTTDJeXG5mMF8CMmh8XFtFNDs2NyUKOXF3RFNHS01FFxAARkZKUVFXVk8VEjddc3dzQkJBN2pgeTIxNzMwN3pwMjEJeSFtcSA5JkAJFARHISgna3AmPHkUDDMyMTUyMTcwaWFrLiFnZiA5JjduYngwMyYpIG5nJGF3CEcyNTBFLkdRCxICIC8mY2tnJjxqZDQAAAAAksTRCg%3D%3D%24&vid=0&q=AE1150023624) (PartSouq)
 
+### [Parts diagrams (jp-carparts)](https://jp-carparts.com/toyota/figlist.php?maker=toyota&type=157120&cartype=8)
 
 Parts
 https://www.blackhawkjapan.com/collections/toyota-oem-parts
