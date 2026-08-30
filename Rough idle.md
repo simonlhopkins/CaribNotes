@@ -52,3 +52,7 @@ However, when I unplugged the idle air control value connector, the car went bac
 ChatGPT seems to think that this means that the TPS Idle Switch is mid adjusted 
 
 I ordered a new fuel filter which might help, the current one on there looks like it has never been changed before.
+
+7/26/2026
+![](media/chrome_2YjaiOIxVF.png)
+Maybe it is just the right engine mount?

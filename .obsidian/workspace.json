@@ -209,16 +209,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vacuum Line Repacements.md",
+                "file": "Tire size.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vacuum Line Repacements"
+              "title": "Tire size"
+            }
+          },
+          {
+            "id": "55aedce528ac8b20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vacuum Line Replacements.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vacuum Line Replacements"
+            }
+          },
+          {
+            "id": "d6cd7edf82fe16d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Timing (and accessory) Belts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "New Timing (and accessory) Belts"
+            }
+          },
+          {
+            "id": "f7201f01909f8c45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Timing (and accessory) Belts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "New Timing (and accessory) Belts"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -238,7 +280,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -368,56 +412,56 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "bd663fd8ba97a8e2",
+  "active": "f7201f01909f8c45",
   "lastOpenFiles": [
-    "media/Pasted image 20260721181405.png",
-    "New Timing (and accessory) Belts.md",
+    "media/chrome_sjhIry0Vyq.png",
+    "Timing belt replacement log.md",
     "Helpful Links.md",
+    "New Timing (and accessory) Belts.md",
+    "Rough idle.md",
+    "media/chrome_2YjaiOIxVF.png",
+    "Tire size.md",
+    "media/Pasted image 20260726153046.png",
+    "Power steering system.md",
+    "media/Pasted image 20260726152935.png",
+    "media/Pasted image 20260726152900.png",
+    "Vacuum Line Replacements.md",
+    "media/Pasted image 20260726152850.png",
+    "Oil Change.md",
+    "Timing belt.md",
+    "Misc electronics.md",
+    "media/Pasted image 20260724105017.png",
+    "media/Pasted image 20260724105016.png",
+    "Summer 2026 goals.md",
+    "media/Pasted image 20260721181405.png",
     "media/Pasted image 20260721172904.png",
     "media/Pasted image 20260720190152.png",
-    "media/Pasted image 20260720184844.png",
-    "media/Pasted image 20260720184820.png",
-    "media/Pasted image 20260720184723.png",
-    "media/Pasted image 20260720184450.png",
-    "media/Pasted image 20260720184422.png",
     "AC Drain hose.md",
     "Brakes.md",
     "Clamp types.md",
-    "Timing belt.md",
     "Misc bolts refresh.md",
     "Dash Symbols.md",
     "CD Changer.md",
-    "Summer 2026 goals.md",
     "conflict-files-obsidian-git.md",
     "Rear Suspension.md",
-    "media/Pasted image 20260706091904.png",
     "Popeye Maintenance Guide/Popeye Maintenance Guide Translations.md",
-    "media/Pasted image 20260629211316.png",
     "Popeye Maintenance Guide/Popeye car maintenance guide-en_mono_doclingo.ai.pdf",
     "Popeye Maintenance Guide/Popeye car maintenance guide.pdf",
-    "Oil Change.md",
-    "media/chrome_qxKwGvOca1.png",
-    "Vacuum Line Repacements.md",
     "Shifter not working.md",
     "Spark Plugs.md",
     "Motor mounts.md",
     "Digital Clock.md",
     "Body parts.md",
-    "Headlights.md",
-    "Fuel Filter.md",
-    "Replacing front suspension.md",
-    "Broken Fuel Lid Lock.md",
-    "Jack points.md",
     "Popeye Maintenance Guide",
     "media/IMG_5930.heic",
     "media",
