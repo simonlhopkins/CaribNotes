@@ -251,16 +251,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Timing (and accessory) Belts.md",
+                "file": "Brakes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New Timing (and accessory) Belts"
+              "title": "Brakes"
+            }
+          },
+          {
+            "id": "7cc44305a9ea2763",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sway bar bushings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sway bar bushings"
+            }
+          },
+          {
+            "id": "29abd31dd5d53f17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tire rotations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tire rotations"
+            }
+          },
+          {
+            "id": "e5deed8d3b70bc47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Helpful Links.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Helpful Links"
+            }
+          },
+          {
+            "id": "147bf37c29e25676",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "torn cv boot (cv axle).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "torn cv boot (cv axle)"
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -422,32 +478,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "f7201f01909f8c45",
+  "active": "147bf37c29e25676",
   "lastOpenFiles": [
-    "media/chrome_sjhIry0Vyq.png",
-    "Timing belt replacement log.md",
+    "media/chrome_jpag3pGaUa.png",
+    "media/chrome_8wx6n7jNDf.png",
+    "media/chrome_RBmtq6w4j2.png",
+    "media/Pasted image 20261026174211.png",
     "Helpful Links.md",
+    "torn cv boot (cv axle).md",
+    "media/Pasted image 20261024192034.png",
+    "media/Pasted image 20261024143405.png",
+    "Untitled 1.md",
+    "tire rotations.md",
+    "media/chrome_mATZyDqu5U 1.png",
+    "Sway bar bushings.md",
+    "media/chrome_mATZyDqu5U.png",
+    "media/Pasted image 20261018082338.png",
+    "media/Pasted image 20261018082313.png",
+    "media/Pasted image 20261018082137.png",
+    "Brakes.md",
+    "Timing belt replacement log.md",
+    "Untitled.md",
     "New Timing (and accessory) Belts.md",
-    "Rough idle.md",
-    "media/chrome_2YjaiOIxVF.png",
-    "Tire size.md",
-    "media/Pasted image 20260726153046.png",
-    "Power steering system.md",
-    "media/Pasted image 20260726152935.png",
-    "media/Pasted image 20260726152900.png",
-    "Vacuum Line Replacements.md",
-    "media/Pasted image 20260726152850.png",
     "Oil Change.md",
+    "Rough idle.md",
+    "Tire size.md",
+    "Power steering system.md",
+    "Vacuum Line Replacements.md",
     "Timing belt.md",
     "Misc electronics.md",
-    "media/Pasted image 20260724105017.png",
-    "media/Pasted image 20260724105016.png",
     "Summer 2026 goals.md",
-    "media/Pasted image 20260721181405.png",
-    "media/Pasted image 20260721172904.png",
-    "media/Pasted image 20260720190152.png",
     "AC Drain hose.md",
-    "Brakes.md",
     "Clamp types.md",
     "Misc bolts refresh.md",
     "Dash Symbols.md",
@@ -457,11 +518,6 @@
     "Popeye Maintenance Guide/Popeye Maintenance Guide Translations.md",
     "Popeye Maintenance Guide/Popeye car maintenance guide-en_mono_doclingo.ai.pdf",
     "Popeye Maintenance Guide/Popeye car maintenance guide.pdf",
-    "Shifter not working.md",
-    "Spark Plugs.md",
-    "Motor mounts.md",
-    "Digital Clock.md",
-    "Body parts.md",
     "Popeye Maintenance Guide",
     "media/IMG_5930.heic",
     "media",

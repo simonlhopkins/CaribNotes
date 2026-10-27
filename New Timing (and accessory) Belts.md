@@ -38,6 +38,10 @@ OIL SEAL, FRONT DRIVE SHAFT, LH - 9031135040
 GASKET, WATER PUMP COVER - 1612416060 
 SEAL, ENGINE REAR OIL - 90311-70007
 
+Bolts:
+crank bolt: **9011912314**
+camshaft bolt: 9011910380
+
 AL- Alternator
 CC - cooler compressor
 CK - crank shaft
