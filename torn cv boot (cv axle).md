@@ -13,9 +13,10 @@ Video showing it after use https://www.youtube.com/watch?v=hGE2FOpfWlw
 https://www.youtube.com/watch?v=MCj-dBwuecQ
 https://www.youtube.com/watch?v=MCj-dBwuecQ
 
+Transmission fluid: 
 ## torque specs
-torque spec of axle nut: 216 Nm
-bolts for the lower sus arm : 145 Nm
+torque spec of axle nut: 216 Nm - 160 ft lbs
+bolts for the lower sus arm : 145 Nm - 107 ft lbs
 ![](media/chrome_8wx6n7jNDf.png)
 ![](media/Pasted%20image%2020261026174211.png)
 ![](media/Pasted%20image%2020261024143405.png)
