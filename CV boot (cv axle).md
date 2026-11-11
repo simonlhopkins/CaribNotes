@@ -15,8 +15,23 @@ https://www.youtube.com/watch?v=MCj-dBwuecQ
 
 Transmission fluid: Dexron 3
 ## torque specs
-torque spec of axle nut: 216 Nm - 160 ft lbs
-bolts for the lower sus arm : 145 Nm - 107 ft lbs
+torque spec of axle nut: 216 Nm - 159 ft lbs
+~~bolts for the lower sus arm : 145 Nm - 107 ft lbs~~
+according to [this](https://www.youtube.com/watch?v=lMJxAOrvqNk), torque is 66 foot pounds on lower control arm bolts
+## CV Axle seal
+Actual part numbers:
+Left side: **04422-12100**
+Right side: 04422-12091
+
+I bought one of each of these, but after removing the seal, it looks like the seal that was removed was actually just the 90311-44004 that came in the parts with the car, even though it is not listed anywhere that this part would work. I am going to check what comes with the seal kits and then possibly return them before installing.
+the seal is NGK BH3680E
+
+manual page 136
+
+Left side: press to depth of 5.3 ± 0.5 mm
+Right side: press to depth of 1.5 ± 0.4 mm
+![](media/chrome_GSgHZPbp2V.png)
+
 ![](media/chrome_8wx6n7jNDf.png)
 ![](media/Pasted%20image%2020261026174211.png)
 ![](media/Pasted%20image%2020261024143405.png)
